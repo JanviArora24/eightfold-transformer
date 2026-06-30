@@ -1,0 +1,12 @@
+Name: Janvi Arora
+
+Email: janvi.arora@gmail.com
+
+Phone: 9876543210
+
+Skills
+
+Python
+C++
+React
+NodeJS
